@@ -121,7 +121,7 @@ return (
                 1. for Short commit history                     "git log --oneline"                  (displays commits in a compact format)
                 2. TO Show commits with branches visually       "git log --oneline --graph --all"    (displays a graphical representation of commit history, including branches.)
                 3. To Show the latest three commits             "git log -3"                         (This displays the three most recent commits.)
-                4. to find a particular commit                  "git log --grep="paricular message"   and --grep"praticular message -i// to search with out case sensetivety  and "git log --all --grep="particular message"// to search message acress all refs incliding branches.
+                4. to find agit particular commit                  "git log --grep="paricular message"   and --grep"praticular message -i// to search with out case sensetivety  and "git log --all --grep="particular message"// to search message acress all refs incliding branches.
             
             When do we use git log?   To see previous commits., To find a particular commit., To understand the development history.and To identify who made changes and when. */}
     {/* git diff"git diff"(displays differences between versions of files.  It shows exactly what you added, removed, or modified in the code.) 
